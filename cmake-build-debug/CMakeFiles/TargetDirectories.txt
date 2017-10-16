@@ -1,0 +1,3 @@
+/Users/joker/Downloads/CLionProjects/mysql_manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joker/Downloads/CLionProjects/mysql_manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joker/Downloads/CLionProjects/mysql_manager/cmake-build-debug/CMakeFiles/mysql_manager.dir

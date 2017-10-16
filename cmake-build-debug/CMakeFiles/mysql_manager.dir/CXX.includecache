@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joker/Downloads/CLionProjects/mysql_manager/main.cpp
+iostream
+-
+mysql_manager.h
+/Users/joker/Downloads/CLionProjects/mysql_manager/mysql_manager.h
+
+/Users/joker/Downloads/CLionProjects/mysql_manager/mysql_manager.cpp
+mysql_manager.h
+/Users/joker/Downloads/CLionProjects/mysql_manager/mysql_manager.h
+cstdlib
+-
+
+/Users/joker/Downloads/CLionProjects/mysql_manager/mysql_manager.h
+list
+-
+mysql/mysql.h
+-
+memory
+-
+
